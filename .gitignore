@@ -25,7 +25,6 @@ htmlcov/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
 
 # VSCode
 .vscode/

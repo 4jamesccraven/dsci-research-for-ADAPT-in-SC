@@ -52,3 +52,5 @@ Acknowledgements
 ----------------
 This work was supported primarily by the National Science Foundation EPSCoR Program under NSF Award #OIA-2242812. Any Opinions, findings and conclusions
 or recommendations expressed in this material are those of the author(s) and do not necessarily reflect those of the National Science Foundation.
+
+Licensing scheme adapted from [this comment](https://github.com/github/choosealicense.com/issues/242#issuecomment-221325538).

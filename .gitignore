@@ -38,5 +38,7 @@ htmlcov/
 *.swp
 *.swo
 
+shell.nix
+
 # Too big
 data/mit-data.csv

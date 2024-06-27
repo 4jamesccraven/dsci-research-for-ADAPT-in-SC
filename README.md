@@ -23,12 +23,19 @@ and types.
 ```
 dsci-research-for-ADAPT-in-SC
 ├── data
-│   ├── comparison.csv                   # results of this study
-│   ├── mit-data.csv                     # data from Angenent-Mari et al.
-│   └── Sensor-Data-Update-9-11-23.csv   # data from Dr. Fernandez at WU
-│
-├── data_prep.py                         # data preparation utilities
-└── Sequence vs Thermodynamic.ipynb    
+│   ├── comparison.csv
+│   ├── mit-data.csv                       # Angenent-Mari et al.
+│   └── Sensor-Data-Update-9-11-23.csv     # WU Fernandez Lab
+├── data_prep.py                           # Data preparation utilities
+├── MLPforSensorData.ipynb
+├── presentation
+│   ├── assets
+│   │   └── # images for presentations
+│   ├── poster
+│   └── SURE Presentation 2024
+├── Sequence vs Thermodynamic.ipynb
+└── visualization
+    └── visualization.ipynb                # Code for graphs
 ```
 NOTE: The data from Angenent-Mari et al. is provided split up, as it is too large to store as one file. It is recommended to
 combine these into a single file, `mit-data.csv` to reproduce the results of the Jupytr notebook, or instead to download it directly

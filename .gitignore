@@ -39,6 +39,7 @@ htmlcov/
 *.swo
 
 shell.nix
+Unit Signature-Mathematics_black-stack.png
 
 # Too big
 data/mit-data.csv

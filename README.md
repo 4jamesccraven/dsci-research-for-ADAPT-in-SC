@@ -51,11 +51,13 @@ If using bash, running this one-liner in the data directory will also produce th
 
 Contributors
 ------------
-- James Craven             | [github.com](https://github.com/4jamesccraven) 
-- Matthew Lindsey          | [github.com](https://github.com/MatthewLindsey75)
-- Kristen Abernathy, Ph.D. | [winthrop.edu](https://www.winthrop.edu/cas/faculty/abernathy-kristen.aspx) | [github.com](https://github.com/kabernathy)
-- Zachary Abernathy, Ph.D. | [winthrop.edu](https://www.winthrop.edu/cas/faculty/abernathy-zachary.aspx) | [github.com](https://github.com/zabernathy)
-- Timea Fernandez, Ph.D.   | [winthrop.edu](https://www.winthrop.edu/cas/faculty/fernandez-timea.aspx)
+| Name                     | wintrhop.edu                                                          | GitHub                                        |
+|--------------------------|-----------------------------------------------------------------------|-----------------------------------------------|
+| James Craven             |                                                                       | [Link ↗](https://github.com/4jamesccraven)    |
+| Matthew Lindsey          |                                                                       | [Link ↗](https://github.com/MatthewLindsey75) |
+| Kristen Abernathy, Ph.D. | [Link ↗](https://www.winthrop.edu/cas/faculty/abernathy-kristen.aspx) | [Link ↗](https://github.com/kabernathy)       |
+| Zachary Abernathy, Ph.D. | [Link ↗](https://www.winthrop.edu/cas/faculty/abernathy-zachary.aspx) | [Link ↗](https://github.com/zabernathy)       |
+| Timea Fernandez, Ph.D.   | [Link ↗](https://www.winthrop.edu/cas/faculty/fernandez-timea.aspx)   |                                               |
 
 References
 ----------
